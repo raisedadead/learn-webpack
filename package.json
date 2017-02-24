@@ -19,5 +19,11 @@
   "keywords": [],
   "devDependencies": {
     "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "scripts": {
+    "build": "webpack index.js dist/bundle.js"
   }
 }
