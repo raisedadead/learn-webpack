@@ -16,5 +16,8 @@
     "url": "https://github.com/raisedadead/learn-webpack/issues"
   },
   "homepage": "https://github.com/raisedadead/learn-webpack#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
